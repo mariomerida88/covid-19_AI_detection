@@ -36,3 +36,5 @@ Checkpoints were are not included in Github.
     conda install -c conda-forge gdcm
 
 
+## Data preparation
+In order to allow automationof the notebook the data must be stored in './data/'.
