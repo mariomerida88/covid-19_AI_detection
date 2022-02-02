@@ -1,8 +1,6 @@
 .ipynb_checkpoints
-content
 data
 entregas
-models
-otros
+models/model_1_img_data_gen.h5
+models/model_2_img_data_gen.h5
 yolov5
-obs
