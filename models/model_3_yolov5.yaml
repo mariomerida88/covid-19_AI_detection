@@ -1,8 +1,0 @@
-train: ./data/yolo/images/train
-val: ./data/yolo/images/val
-nc: 4
-names:
-- atypical
-- indeterminate
-- neg_for_pneumonia
-- typical
