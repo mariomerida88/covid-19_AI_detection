@@ -1,0 +1,37 @@
+{
+    "os": "Windows-10-10.0.19043-SP0",
+    "python": "3.9.7",
+    "heartbeatAt": "2022-02-08T18:40:04.391577",
+    "startedAt": "2022-02-08T18:40:00.046437",
+    "docker": null,
+    "gpu": "NVIDIA GeForce RTX 3070 Laptop GPU",
+    "gpu_count": 1,
+    "cpu_count": 16,
+    "cuda": null,
+    "args": [
+        "--img",
+        "640",
+        "--batch",
+        "8",
+        "--epochs",
+        "5",
+        "--data",
+        "./yolov5_no_NA/model_4_yolov5.yaml",
+        "--cfg",
+        "./yolov5_no_NA/models/yolov5s.yaml",
+        "--name",
+        "./model_4_logs"
+    ],
+    "state": "running",
+    "program": "d:\\Cloud Sync\\Git mariomerida88\\2021.10 covid-19_AI_detection\\covid-19_AI_detection\\yolov5_no_NA\\train.py",
+    "codePath": "yolov5_no_NA\\train.py",
+    "git": {
+        "remote": "https://github.com/mariomerida88/covid-19_AI_detection.git",
+        "commit": "67531c710a4bddc056c7e5d43c44bf21353c1e0d"
+    },
+    "email": "mariomerida88@gmail.com",
+    "root": "D:/Cloud Sync/Git mariomerida88/2021.10 covid-19_AI_detection/covid-19_AI_detection",
+    "host": "LL-M88",
+    "username": "mario",
+    "executable": "C:\\Programs\\anaconda3\\envs\\bdds_tfm_env\\python.exe"
+}
